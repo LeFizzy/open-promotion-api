@@ -1,0 +1,22 @@
+{
+  "name": "open-promotion-api",
+  "version": "1.0.0",
+  "description": "A simple API to provide a way to easily start a prize winning game using promotion codes like in some chocolate brand's promos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeFizzy/open-promotion-api.git"
+  },
+  "keywords": [
+    "promotion-api"
+  ],
+  "author": "LeFizzy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/LeFizzy/open-promotion-api/issues"
+  },
+  "homepage": "https://github.com/LeFizzy/open-promotion-api#readme"
+}
